@@ -9,6 +9,10 @@
             {
               "label": "Open Issue",
               "command": "nodeschool:open-issue"
+            },
+            {
+              "label": "Search",
+              "command": "nodeschool:search"
             }
           ]
         }

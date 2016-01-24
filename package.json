@@ -7,7 +7,10 @@
     "nodeschool"
   ],
   "activationCommands": {
-    "atom-workspace": "nodeschool:open-issue"
+    "atom-workspace": [
+      "nodeschool:open-issue",
+      "nodeschool:search"
+    ]
   },
   "repository": "https://github.com/atom/nodeschool",
   "license": "MIT",
@@ -15,6 +18,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.1.1"
+    "atom-space-pen-views": "^2.1.1",
+    "hyperquest": "^1.2.0",
+    "ndjson": "^1.4.3"
   }
 }
