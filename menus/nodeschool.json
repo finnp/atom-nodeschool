@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "nodeschool",
+          "submenu": [
+            {
+              "label": "Open Issue",
+              "command": "nodeschool:open-issue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
