@@ -7,11 +7,11 @@
           "label": "nodeschool",
           "submenu": [
             {
-              "label": "Open Issue",
-              "command": "nodeschool:open-issue"
+              "label": "Ask question",
+              "command": "nodeschool:create-issue"
             },
             {
-              "label": "Search",
+              "label": "Search questions",
               "command": "nodeschool:search"
             }
           ]
