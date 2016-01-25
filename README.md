@@ -1,5 +1,7 @@
 # nodeschool atom package
 
+Install with `apm install nodeschool`.
+
 ![NodeSchool preview](nodeschool.gif)
 
 Helper for NodeSchool students with the following commands:
