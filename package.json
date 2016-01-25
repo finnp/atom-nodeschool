@@ -2,7 +2,7 @@
   "name": "nodeschool",
   "main": "./lib/nodeschool",
   "version": "0.0.0",
-  "description": "Package for NodeSchool students",
+  "description": "Helper for NodeSchool students",
   "keywords": [
     "nodeschool"
   ],
