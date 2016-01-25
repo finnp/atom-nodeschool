@@ -2,7 +2,7 @@
 
 Install with `apm install nodeschool`.
 
-![NodeSchool preview](nodeschool.gif)
+![NodeSchool preview](https://raw.githubusercontent.com/finnp/atom-nodeschool/master/nodeschool.gif)
 
 Helper for NodeSchool students with the following commands:
 
