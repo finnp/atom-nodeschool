@@ -12,7 +12,7 @@
       "nodeschool:search"
     ]
   },
-  "repository": "https://github.com/atom/nodeschool",
+  "repository": "https://github.com/finnp/atom-nodeschool",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
